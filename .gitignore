@@ -1,0 +1,8 @@
+*.pyc pycache/ 
+*.ipynb_checkpoints/ 
+*.DS_Store 
+*.pkl 
+data/heart_disease_preprocessed.csv 
+data/heart_disease_pca.csv 
+data/heart_disease_selected_features.csv 
+results/ models/
